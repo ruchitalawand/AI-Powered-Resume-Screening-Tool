@@ -1,0 +1,1 @@
+We are seeking a Python Developer with expertise in AI/ML, NLP, and cloud technologies (AWS, Azure). Hands-on experience with Python frameworks (FastAPI/Django), data analysis, and automation is preferred.
